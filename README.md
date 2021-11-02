@@ -16,8 +16,8 @@ and each of categories includes python, cpp, doc folder
 
 
 ## To Do list for myself
-- understand https://refactoring.guru/design-patterns/catalog
-- summarize it
+- 해당 주소를 이해 : https://refactoring.guru/design-patterns/catalog
+- 자신의 언어로 이해
 - coding in python
 - conding in c++
 
